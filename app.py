@@ -22,4 +22,3 @@ async def predict(request: Props):
     except TypeError as e:
         result = {'error': str(e)}
     return result
-

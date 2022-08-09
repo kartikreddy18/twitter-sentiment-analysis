@@ -1,0 +1,12 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "test.js",
+  "repository": "git@github.com:kartikreddy18/twitter-sentiment-analysis.git",
+  "author": "<kartikreddy18.kr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  },
+  "type": "module"
+}
